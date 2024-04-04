@@ -14,16 +14,16 @@ timezone: Asia/Jakarta
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Raja Kopi # the main title
+title: Rei Blog # the main title
 
-tagline: Rajanya Kopi # it will display as the sub-title
+tagline: Minimalist Blog # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   Kopinya Kopi, Rajanya Kopi, Kopi Enak
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
-url: "https://raja-kopi.github.io"
+url: "https://heyreihan.github.io"
 
 github:
   username: HeyReihan # change to your github username
@@ -34,14 +34,14 @@ twitter:
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: Rei & Hanaffy
-  email: el.hanaffy@gmail.com # change to your email address
+  name: Rei 
+  email: m637885@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
     - https://twitter.com/HeyReihan # change to your twitter homepage
     - https://github.com/HeyReihan # change to your github homepage
     # Uncomment below to add more social links
-    # - https://www.facebook.com/username
+    - https://www.facebook.com/CyberGothz
     # - https://www.linkedin.com/in/username
 
 google_site_verification: # fill in to your verification string
@@ -126,7 +126,7 @@ pwa:
 paginate: 10
 
 # The base URL of your site
-baseurl: "https://raja-kopi.github.io"
+baseurl: "https://heyreihan.github.io"
 
 # ------------ The following options are not recommended to be modified ------------------
 
